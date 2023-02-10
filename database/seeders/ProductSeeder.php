@@ -35,7 +35,7 @@ class ProductSeeder extends Seeder
             "price"=>"500",
             "description"=>"Smart TV with much more colors ...",
             "category"=>"Tv",
-            "gallery"=>"https://ae01.alicdn.com/kf/U81e5c4d598ae406da635cedb2250fd7cQ/Xiaomi-ak-ll-TV-P1-32-in-er-evesiz-HD-l-ayar-Android-9-0-Netflix.jpg"
+            "gallery"=>"https://cdn.cimri.io/image/1200x1200/xiaomitelevizyonlarfiyatlar_676093156.jpg"
             ],
             [
             "name"=>"LG Fridge",

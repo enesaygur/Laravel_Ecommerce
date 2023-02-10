@@ -20,5 +20,24 @@
         height:500px;
         padding-top: 100px;
     }
+    img.slider-img{
+        width:100%;
+        height:400px !important;
+    }
+    .custom-products{
+        height:600px;
+    }
+    .slider-text{
+        background-color: #35443585 !important;
+    }
+    .trending-image{
+        height:100px;
+    }
+    .trending-item{
+        width:20%;
+    }
+    .trending-wrapper{
+        margin:30px;
+    }
 </style>
 </html>
