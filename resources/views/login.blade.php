@@ -1,6 +1,6 @@
 @extends("master")
 @section("content")
-<div class="container custom-login">
+<div class="container custom-login ">
     <div class="row">
         <div class="col-sm-4 mx-auto">
             <form action="login" method="post">
@@ -13,7 +13,7 @@
                     <label for="exampleInputPassword1" class="form-label">Password</label>
                     <input type="password" name="password" class="form-control" id="exampleInputPassword1">
                 </div>
-                <button type="submit" class="btn btn-primary">Submit</button>
+                <button type="submit" class="btn btn-primary">Login</button>
             </form>
         </div>
     </div>

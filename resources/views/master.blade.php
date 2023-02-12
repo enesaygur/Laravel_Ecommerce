@@ -38,6 +38,10 @@
     }
     .trending-wrapper{
         margin:30px;
+        padding-bottom: 40px;
+    }
+    .detail-img{
+        height:200px;
     }
 </style>
 </html>
